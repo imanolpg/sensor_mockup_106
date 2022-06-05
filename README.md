@@ -5,7 +5,7 @@
  <h1 align="center"> Sensor Mockup 106 </h1>
 </p>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/imanolpg/sensor_mockup_106)
+![GitHub last commit](https://img.shields.io/github/last-commit/imanolpg/sensor_mockup_106)
 ![GitHub language count](https://img.shields.io/github/languages/count/imanolpg/sensor_mockup_106)
 ![GitHub repo size](https://img.shields.io/github/repo-size/imanolpg/sensor_mockup_106)
 
